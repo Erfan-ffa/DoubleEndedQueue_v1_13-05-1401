@@ -1,0 +1,15 @@
+C:\Erfan_ffa---\Projects\Exercises\DoubleEndedQueue_v1\DoubleEndedQueue_v1\bin\Debug\net6.0\DoubleEndedQueue_v1.exe
+C:\Erfan_ffa---\Projects\Exercises\DoubleEndedQueue_v1\DoubleEndedQueue_v1\bin\Debug\net6.0\DoubleEndedQueue_v1.deps.json
+C:\Erfan_ffa---\Projects\Exercises\DoubleEndedQueue_v1\DoubleEndedQueue_v1\bin\Debug\net6.0\DoubleEndedQueue_v1.runtimeconfig.json
+C:\Erfan_ffa---\Projects\Exercises\DoubleEndedQueue_v1\DoubleEndedQueue_v1\bin\Debug\net6.0\DoubleEndedQueue_v1.dll
+C:\Erfan_ffa---\Projects\Exercises\DoubleEndedQueue_v1\DoubleEndedQueue_v1\bin\Debug\net6.0\ref\DoubleEndedQueue_v1.dll
+C:\Erfan_ffa---\Projects\Exercises\DoubleEndedQueue_v1\DoubleEndedQueue_v1\bin\Debug\net6.0\DoubleEndedQueue_v1.pdb
+C:\Erfan_ffa---\Projects\Exercises\DoubleEndedQueue_v1\DoubleEndedQueue_v1\obj\Debug\net6.0\DoubleEndedQueue_v1.csproj.AssemblyReference.cache
+C:\Erfan_ffa---\Projects\Exercises\DoubleEndedQueue_v1\DoubleEndedQueue_v1\obj\Debug\net6.0\DoubleEndedQueue_v1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Erfan_ffa---\Projects\Exercises\DoubleEndedQueue_v1\DoubleEndedQueue_v1\obj\Debug\net6.0\DoubleEndedQueue_v1.AssemblyInfoInputs.cache
+C:\Erfan_ffa---\Projects\Exercises\DoubleEndedQueue_v1\DoubleEndedQueue_v1\obj\Debug\net6.0\DoubleEndedQueue_v1.AssemblyInfo.cs
+C:\Erfan_ffa---\Projects\Exercises\DoubleEndedQueue_v1\DoubleEndedQueue_v1\obj\Debug\net6.0\DoubleEndedQueue_v1.csproj.CoreCompileInputs.cache
+C:\Erfan_ffa---\Projects\Exercises\DoubleEndedQueue_v1\DoubleEndedQueue_v1\obj\Debug\net6.0\DoubleEndedQueue_v1.dll
+C:\Erfan_ffa---\Projects\Exercises\DoubleEndedQueue_v1\DoubleEndedQueue_v1\obj\Debug\net6.0\ref\DoubleEndedQueue_v1.dll
+C:\Erfan_ffa---\Projects\Exercises\DoubleEndedQueue_v1\DoubleEndedQueue_v1\obj\Debug\net6.0\DoubleEndedQueue_v1.pdb
+C:\Erfan_ffa---\Projects\Exercises\DoubleEndedQueue_v1\DoubleEndedQueue_v1\obj\Debug\net6.0\DoubleEndedQueue_v1.genruntimeconfig.cache
